@@ -1,3 +1,5 @@
+// Укреплённый задачный шаблон
+#define _CRT_SECURE_NO_WARNINGS
 #include "algorithm"
 #include "cmath"
 #include "cstddef"
